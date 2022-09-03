@@ -1,22 +1,24 @@
 {
-  "name": "food_dist",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Turbolet85/food-project.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Turbolet85/food-project/issues"
-  },
-  "homepage": "https://github.com/Turbolet85/food-project#readme",
-  "devDependencies": {
-    "json-server": "^0.17.0"
-  }
+	"name": "food_dist",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Turbolet85/food-project.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Turbolet85/food-project/issues"
+	},
+	"homepage": "https://github.com/Turbolet85/food-project#readme",
+	"devDependencies": {
+		"json-server": "^0.17.0",
+		"webpack": "^5.74.0",
+		"webpack-cli": "^4.10.0"
+	}
 }
